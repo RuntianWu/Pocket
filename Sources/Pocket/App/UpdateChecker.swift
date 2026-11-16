@@ -14,7 +14,7 @@ final class UpdateChecker: ObservableObject {
 
     static let shared = UpdateChecker()
 
-    static let repoOwner = "Micropeptide"
+    static let repoOwner = "RuntianWu"
     static let repoName = "Pocket"
 
     @Published private(set) var availableUpdate: AppUpdate?

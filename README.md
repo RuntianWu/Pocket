@@ -22,7 +22,7 @@ them directly. No more hunting through a crowded bar for the one icon you need.
 
 ## Installation
 
-Download the latest `Pocket.dmg` from the [Releases page](https://github.com/Micropeptide/Pocket/releases),
+Download the latest `Pocket.dmg` from the [Releases page](https://github.com/RuntianWu/Pocket/releases),
 open it, and drag Pocket into your Applications folder.
 
 Pocket isn't notarized by Apple, so the first time you open it, right-click (or
@@ -51,7 +51,7 @@ launch at login, auto-close behavior, the global shortcut, and update checks.
 Pocket is a Swift Package with no external dependencies.
 
 ```bash
-git clone https://github.com/Micropeptide/Pocket.git
+git clone https://github.com/RuntianWu/Pocket.git
 cd Pocket
 ./Scripts/build-app.sh       # builds Pocket.app in the project root
 open Pocket.app
